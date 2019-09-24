@@ -9,8 +9,19 @@ An AI flappybird implementation in python using pygame and the neat algorithm
 - Tech With Tim's Flappybird tutorial for introducing Pygame and the Neat python framework! )(https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 
 
+**How to RUN?**
 
+Manual:
 
 ``
-Some code here!
+Comming soon:
+``
+
+For now:
+- Python 3.6 interpreter and then run ``pip install -r requirements.txt`` in that environment
+
+Docker:
+
+``
+Comming soon
 ``
