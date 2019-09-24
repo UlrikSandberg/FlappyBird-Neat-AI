@@ -1,6 +1,10 @@
 # FlappyBird-Neat-AI
 An AI flappybird implementation in python using pygame and the neat algorithm
 
+
+![Flappy Bird Image](https://raw.githubusercontent.com/UlrikSandberg/FlappyBird-Neat-AI/master/imgs/FlappyBirdImage.png)
+
+
 **Shoutouts!**
 -
 
