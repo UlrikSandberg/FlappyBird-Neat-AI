@@ -23,6 +23,8 @@ Comming soon:
 
 For now:
 - Python 3.6 interpreter and then run ``pip install -r requirements.txt`` in that environment
+- ``cd src``
+- ``python flappybird.py``
 
 Docker:
 
